@@ -27,4 +27,3 @@ function loadIncludes(parent) {
 }
 
 loadIncludes()
-Footer
